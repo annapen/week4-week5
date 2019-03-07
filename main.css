@@ -1,0 +1,56 @@
+h1{
+    font-family: fantasy;
+    font-size: 50px;
+    color: antiquewhite;
+    text-align: center;
+    background-image: url(https://images.unsplash.com/photo-1545896535-6021b3815e29?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80);
+    background-size: 100%;
+    padding: 300px;
+    background-repeat: no-repeat;
+    background-position: center; 
+}
+
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #ffe6c1;
+    font-size: 35px;
+    text-align: center;
+    padding-top: 2em;
+    margin-top: 0px;
+}
+
+p {
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #ffe6c1;
+    text-align: justify;
+    margin: 18px;
+}
+
+ul {
+    list-style: none;
+}
+
+li img{
+width: 300px
+}
+
+ul {
+    margin: 2em;
+    padding-top: 1em;
+    display: grid;
+    grid-template-columns: 300px 300px;
+    grid-gap: 10px;
+}
+
+body {
+    background-color: #031219; 
+}
+
+  div{
+      display: block;
+  }
+
+
+    
+
